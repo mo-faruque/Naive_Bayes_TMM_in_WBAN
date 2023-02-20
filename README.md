@@ -1,5 +1,6 @@
 # Naive_Bayes_TMM_in_WBAN
 
+![image](https://user-images.githubusercontent.com/68147248/220020468-17a3fe0b-b70a-46d6-858f-24688cfb45a3.png)
 
 This repository constains a MATLAB implementation of the paper, titled "Naive Bayes Based Trust Management Model for Wireless Body Area Networks", which is published in ICCA 2020.
 
