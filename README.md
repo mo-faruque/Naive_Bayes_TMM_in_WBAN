@@ -4,7 +4,7 @@ This repository constains a MATLAB implementation of the paper, titled "Naive Ba
 
 ![image](https://user-images.githubusercontent.com/68147248/220020606-881be42e-20eb-47be-873a-a2111609fdad.png)
 
-                       Fig: Threat Model
+                                Fig: Threat Model
 
 
 
